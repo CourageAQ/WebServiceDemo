@@ -1,0 +1,6 @@
+补充：
+	服务启动后还可以自动生成客户端代码
+	在cmd命令下，进入客户端程序的绝对路径src/main/java下，
+	使用：
+		wsimport -keep http://localhost:8088/getwebservice?wsdl
+		可以自动生成客户端代码。可见附件，（服务端与客户端代码）
