@@ -4,8 +4,8 @@ import javax.xml.ws.Endpoint;
 /***
  * 
  * @author Eternity
+ * 	服务端的发布
  *	http://localhost:8088/getwebservice?wsdl
- *	访问成功证明发布没问题
  */
 public class AppMain {
 	public static void main(String[] args) {
